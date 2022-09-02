@@ -19,7 +19,7 @@ public class Pessoa
         this.Idade = Idade;
         this.Cpf = Cpf;
          this.contratos = new List<Contrato>();
-         this.Ativado = true;
+         this.Ativado = true; 
 
     }
 
